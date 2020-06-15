@@ -6,4 +6,6 @@ Stockfish is an open source UCI chess engine, developed by Tord Romstad, Joona K
 This project modifies Stockfish and plugs in a neural evaluation function and a companion trainer for purely academic purposes. I thank Andrey Kotlarski without whose BPN, this project would be a lot harder to implement.
 
 ##
-Find Out More Here: http://puneethnarayana.me/rStock/
+TODO:
+1. Convert the code and run it in Python
+2. Write a blog about the experience
